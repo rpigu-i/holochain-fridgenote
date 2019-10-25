@@ -1,9 +1,9 @@
 {
-  "name": "Holochain App Name",
-  "description": "A Holochain app",
+  "name": "Holochain Frudge Note",
+  "description": "A Holochain app for sending reminder notes to friends",
   "authors": [
     {
-      "identifier": "Author Name <author@name.com>",
+      "identifier": "rpigu-i",
       "public_key_source": "",
       "signature": ""
     }
