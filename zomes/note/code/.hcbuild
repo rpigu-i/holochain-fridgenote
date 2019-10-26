@@ -10,5 +10,5 @@
       ]
     }
   ],
-  "artifact": "../target/wasm32-unknown-unknown/release/fridgenote_zome.wasm"
+  "artifact": "../target/wasm32-unknown-unknown/release/note.wasm"
 }
